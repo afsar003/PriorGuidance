@@ -1,0 +1,228 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans' , sans-serif;
+    box-sizing: border-box;
+}
+.hero{
+    background-color: aqua;
+    height: 100vh;
+    width: 100%;
+    background-image: url("background2.jpeg");
+    background-size: cover;
+    background-position: center;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 4%;
+    padding-right: 8%;
+}
+.logo{
+    color: white;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+span{
+    color: red;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 20px 25px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+nav ul li a:hover{
+    color: red;
+    transition: .2s;
+}
+.btn{
+    background-color: blanchedalmond ;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border: 2px solid transparent;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: transform .4s;
+}
+.btn:hover{
+    transform: scale(1.1)
+}
+
+.content{
+    position: absolute;
+    color: aqua;
+    top: 40%;
+    left: 8%;
+    right: 10%;
+}
+
+
+
+.content h2{
+    color: azure;
+    font-size: 35px;
+}
+.content h1{
+    color: wheat;
+    font-size: 30px;
+}
+.content span{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.content span2{
+    color: red;
+    font-size: 50px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.content h3{
+    margin-right: 5%;
+    color: rgb(110, 159, 223);
+}
+
+
+
+.department{
+    background: #101010;
+    background-image: url("background4.jpeg");
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.title h2{
+    color: rgb(19, 192, 235);
+    font-size: 100px;
+    width: 1130px;
+    margin: 30px auto;
+    text-align: center;
+}
+
+.tagline{
+    color: rgb(249, 249, 249);
+    font-size: 20px;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.Box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+.card{
+    height: 300px;
+    width: 15%;
+    padding: 20px 35px;
+    background: wheat;
+    border-radius: 15px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: left;
+}
+
+.card i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 25px 5px;
+    color: red;
+}
+
+h5{
+    color: blueviolet;
+    font-size: 23px;
+    margin-bottom: 15px;
+    text-align: center;
+
+}
+
+.pra p{
+    color: brown;
+    font-size: 16px;
+    line-height: 27px;
+    line-height: 27px;
+    margin-bottom: 25px;
+}
+
+.card .Button{
+    background-color: red;
+    color: whitesmoke;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 9px 22px;
+    border-radius: 30px;
+    transition: .1s;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

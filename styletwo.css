@@ -1,0 +1,171 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Josefin Sans' , sans-serif;
+    box-sizing: border-box;
+}
+
+
+
+.departmenttwo{
+    background: #101010;
+    background-image: url("background5.jpeg");
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.departmentece{
+    background: #101010;
+    background-image: url("background9.jpeg");
+    background-size: cover;
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.departmentmech{
+    background: #101010;
+    background-image: url("background10.jpeg");
+    background-size: cover;
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.departmentmanagement{
+    background: #101010;
+    background-image: url("background11.jpeg");
+    background-size: cover;
+    width: 100%;
+    padding: 100px 0px;
+}
+
+.departmentcivil{
+    background: #101010;
+    background-image: url("background12.jpeg");
+    background-size: cover;
+    width: 100%;
+    padding: 100px 0px;
+}
+
+
+
+
+.titletwo h2{
+    color: rgb(234, 232, 227);
+    font-size: 100px;
+    width: 1130px;
+    margin: 0px auto;
+    text-align: center;
+}
+
+.heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10px;
+}
+
+.Boxthree{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 40px;
+}
+
+.Boxtwo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+}
+
+.cardtwo{
+    height: 50%;
+    width: 25%;
+    padding: 20px 35px;
+    background: rgb(32, 114, 197);
+    border-radius: 15px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: left;
+}
+
+.cardthree{
+    height: 50%;
+    width: 25%;
+    padding: 3px 5px;
+    background: rgb(32, 114, 197);
+    border-radius: 15px;
+    margin: 15px;
+    position: relative;
+    overflow: hidden;
+    text-align: left;
+}
+
+.cardtwo i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 25px 5px;
+    color: rgb(235, 26, 166);
+}
+
+.cardthree i{
+    font-size: 50px;
+    display: block;
+    text-align: center;
+    margin: 15px 5px;
+    color: rgb(92, 26, 235);
+}
+
+h5{
+    color: blueviolet;
+    font-size: 23px;
+    margin-bottom: 15px;
+    text-align: center;
+
+}
+
+.Boxtwo p{
+    color: palevioletred;
+    font-size: 16px;
+    line-height: 27px;
+    line-height: 27px;
+    margin-bottom: 25px;
+}
+
+.Boxthree p{
+    color: rgb(222, 136, 23);
+    font-size: 16px;
+    line-height: 27px;
+    line-height: 27px;
+    margin-bottom: 15px;
+}
+
+
+.Boxtwo .Button{
+    background-color: rgb(64, 64, 184);
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 9px 22px;
+    border-radius: 30px;
+    transition: .1s;
+}
+
+.Boxthree .Button{
+    background-color: rgb(64, 64, 184);
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 9px 22px;
+    border-radius: 30px;
+    transition: .1s;
+}
+
+
+
+
+  
